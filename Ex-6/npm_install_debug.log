@@ -1,0 +1,65 @@
+npm verb cli [
+npm verb cli   '/usr/local/bin/node',
+npm verb cli   '/opt/homebrew/bin/npm',
+npm verb cli   'install',
+npm verb cli   '--loglevel',
+npm verb cli   'verbose'
+npm verb cli ]
+npm info using npm@8.4.1
+npm info using node@v16.14.0
+npm timing npm:load:whichnode Completed in 0ms
+npm timing config:load:defaults Completed in 1ms
+npm timing config:load:file:/opt/homebrew/lib/node_modules/npm/npmrc Completed in 1ms
+npm timing config:load:builtin Completed in 1ms
+npm timing config:load:cli Completed in 1ms
+npm timing config:load:env Completed in 1ms
+npm timing config:load:file:/Users/rafjar1188/Studia/Semestr8/ebiznes/tests/tmpBstackPackages/.npmrc Completed in 0ms
+npm timing config:load:project Completed in 1ms
+npm timing config:load:file:/Users/rafjar1188/.npmrc Completed in 0ms
+npm timing config:load:user Completed in 0ms
+npm timing config:load:file:/opt/homebrew/etc/npmrc Completed in 0ms
+npm timing config:load:global Completed in 0ms
+npm timing config:load:validate Completed in 1ms
+npm timing config:load:credentials Completed in 0ms
+npm timing config:load:setEnvs Completed in 0ms
+npm timing config:load Completed in 6ms
+npm timing npm:load:configload Completed in 6ms
+npm timing npm:load:setTitle Completed in 5ms
+npm timing config:load:flatten Completed in 1ms
+npm timing npm:load:display Completed in 3ms
+npm verb logfile /Users/rafjar1188/.npm/_logs/2022-05-25T14_49_37_871Z-debug-0.log
+npm timing npm:load:logFile Completed in 2ms
+npm timing npm:load:timers Completed in 0ms
+npm timing npm:load:configScope Completed in 0ms
+npm timing npm:load Completed in 16ms
+npm timing arborist:ctor Completed in 0ms
+npm timing arborist:ctor Completed in 1ms
+npm timing idealTree:init Completed in 5ms
+npm timing idealTree:userRequests Completed in 0ms
+npm timing idealTree:#root Completed in 0ms
+npm timing idealTree:buildDeps Completed in 1ms
+npm timing idealTree:fixDepFlags Completed in 0ms
+npm timing idealTree Completed in 6ms
+npm timing reify:loadTrees Completed in 6ms
+npm timing reify:diffTrees Completed in 0ms
+npm timing reify:retireShallow Completed in 1ms
+npm timing reify:createSparse Completed in 0ms
+npm timing reify:loadBundles Completed in 0ms
+npm timing reify:audit Completed in 0ms
+npm timing reify:unpack Completed in 0ms
+npm timing reify:unretire Completed in 0ms
+npm timing build:queue Completed in 0ms
+npm timing build:deps Completed in 0ms
+npm timing build Completed in 0ms
+npm timing reify:build Completed in 0ms
+npm timing reify:trash Completed in 0ms
+npm timing reify:save Completed in 0ms
+npm timing reify Completed in 11ms
+
+up to date, audited 1 package in 109ms
+
+found 0 vulnerabilities
+npm timing command:install Completed in 13ms
+npm verb exit 0
+npm timing npm Completed in 110ms
+npm info ok 
